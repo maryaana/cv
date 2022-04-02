@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/designCV/static/css/main.2e8090b8.css",
-    "main.js": "/designCV/static/js/main.03eff7c7.js",
+    "main.css": "/designCV/static/css/main.d06162df.css",
+    "main.js": "/designCV/static/js/main.3f15e208.js",
+    "static/media/clio.jpg": "/designCV/static/media/clio.17780656555176b13079.jpg",
+    "static/media/childrenOnKitchen.jpg": "/designCV/static/media/childrenOnKitchen.9d2d518baf836bfe5de9.jpg",
     "static/media/StratosLCWeb-Light.ttf": "/designCV/static/media/StratosLCWeb-Light.ab5c2c0cdd99533901bc.ttf",
     "static/media/StratosLCWeb-Regular.ttf": "/designCV/static/media/StratosLCWeb-Regular.9db36b4609891e802c8e.ttf",
+    "static/media/business.jpg": "/designCV/static/media/business.61aea3dc9f6ef437bb84.jpg",
+    "static/media/carsRent.jpg": "/designCV/static/media/carsRent.77ec9623f70c8a63f242.jpg",
+    "static/media/flour.jpg": "/designCV/static/media/flour.6743dc6f1c7688dceaf8.jpg",
+    "static/media/liteManager.jpg": "/designCV/static/media/liteManager.faf38bdd2fb128b4f163.jpg",
+    "static/media/architecture.jpg": "/designCV/static/media/architecture.91bd3fb7416e9e144791.jpg",
     "index.html": "/designCV/index.html",
-    "main.2e8090b8.css.map": "/designCV/static/css/main.2e8090b8.css.map",
-    "main.03eff7c7.js.map": "/designCV/static/js/main.03eff7c7.js.map"
+    "main.d06162df.css.map": "/designCV/static/css/main.d06162df.css.map",
+    "main.3f15e208.js.map": "/designCV/static/js/main.3f15e208.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e8090b8.css",
-    "static/js/main.03eff7c7.js"
+    "static/css/main.d06162df.css",
+    "static/js/main.3f15e208.js"
   ]
 }
