@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designCV/static/css/main.bf3a0dd2.css",
-    "main.js": "/designCV/static/js/main.872dce58.js",
+    "main.js": "/designCV/static/js/main.15f31352.js",
     "static/media/clio.jpg": "/designCV/static/media/clio.17780656555176b13079.jpg",
     "static/media/childrenOnKitchen.jpg": "/designCV/static/media/childrenOnKitchen.9d2d518baf836bfe5de9.jpg",
     "static/media/StratosLCWeb-Light.ttf": "/designCV/static/media/StratosLCWeb-Light.ab5c2c0cdd99533901bc.ttf",
@@ -13,10 +13,10 @@
     "static/media/architecture.jpg": "/designCV/static/media/architecture.91bd3fb7416e9e144791.jpg",
     "index.html": "/designCV/index.html",
     "main.bf3a0dd2.css.map": "/designCV/static/css/main.bf3a0dd2.css.map",
-    "main.872dce58.js.map": "/designCV/static/js/main.872dce58.js.map"
+    "main.15f31352.js.map": "/designCV/static/js/main.15f31352.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3a0dd2.css",
-    "static/js/main.872dce58.js"
+    "static/js/main.15f31352.js"
   ]
 }
