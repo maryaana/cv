@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/designCV/static/css/main.2e8090b8.css",
+    "main.js": "/designCV/static/js/main.03eff7c7.js",
+    "static/media/StratosLCWeb-Light.ttf": "/designCV/static/media/StratosLCWeb-Light.ab5c2c0cdd99533901bc.ttf",
+    "static/media/StratosLCWeb-Regular.ttf": "/designCV/static/media/StratosLCWeb-Regular.9db36b4609891e802c8e.ttf",
+    "index.html": "/designCV/index.html",
+    "main.2e8090b8.css.map": "/designCV/static/css/main.2e8090b8.css.map",
+    "main.03eff7c7.js.map": "/designCV/static/js/main.03eff7c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8090b8.css",
+    "static/js/main.03eff7c7.js"
+  ]
+}
